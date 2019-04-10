@@ -107,7 +107,7 @@ HOST4 = root,example4.com
 
 ## License ##
 
-Copyright (c) 2019 Paulo de Tarço
+Copyright (c) 2019 - Paulo de Tarço e Helio Pedro Amaral Souto
 
 MIT License
 
